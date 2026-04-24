@@ -1,7 +1,7 @@
 # 🚀 Matheus Souza
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Desenvolvedor+Full+Stack;Estudante+de+Engenharia+de+Software;Sempre+evoluindo..." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning..." />
 </div>
 
 ---
