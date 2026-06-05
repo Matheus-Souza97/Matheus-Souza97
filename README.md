@@ -1,86 +1,136 @@
-# 🚀 Matheus Souza
+# Matheus Souza
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Software+Engineering+Student;Always+learning..." />
-</div>
+Software Engineering Student | Full Stack Developer
 
----
-
-## 👨‍💻 Sobre mim
-
-🎓 Estudante de Engenharia de Software  
-💻 Desenvolvedor Full Stack em formação  
-🚀 Focado em evolução constante e construção de projetos reais  
-
-Atualmente estou aprofundando meus conhecimentos em JavaScript, React e Node.js, buscando construir aplicações modernas, escaláveis e com boas práticas.
+Building modern web applications with JavaScript, React and Node.js while strengthening software engineering fundamentals, backend development and software architecture.
 
 ---
 
-## 🧰 Tech Stack
+## About Me
 
-<div align="center">
+I'm a Software Engineering student passionate about technology, problem solving and continuous learning.
 
-### 🚀 Front-end
-<img src="https://skillicons.dev/icons?i=js,react,html,css" />
+My current focus is developing full stack applications, improving backend skills with Node.js and deepening my understanding of software architecture, data structures, clean code and design patterns.
 
-### 🧩 Back-end
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-### ⚙️ Ferramentas
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-
-</div>
+I enjoy building practical projects that transform theoretical knowledge into real-world solutions.
 
 ---
 
-## 📈 GitHub Stats
+## Tech Stack
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Souza97&show_icons=true&theme=tokyonight"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Souza97&layout=compact&theme=tokyonight"/>
-</div>
+### Languages
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css" />
+</p>
 
-## 🔥 Streak (consistência)
+### Front-End
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Matheus-Souza97&theme=tokyonight&hide_border=true"/>
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
 
----
+### Back-End
 
-## 📚 Atualmente estudando
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
 
-- Estrutura de Dados  
-- Arquitetura de Software  
-- Desenvolvimento Full Stack  
-- Boas práticas (Clean Code)
+### Tools
 
----
-
-## 🌐 Conecte-se comigo
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/matheus-souza-eng-software" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:matheus.souza.dev01@gmail.com">
-  <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</div>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://cdn.simpleicons.org/insomnia" width="48" alt="Insomnia" />
+</p>
 
 ---
 
-## 💭 Mentalidade
+## Current Learning Path
 
-> "Consistência supera talento quando o talento não é consistente."
+- Data Structures and Algorithms
+- Software Architecture
+- REST APIs
+- Node.js
+- React
+- Clean Code
+- Design Patterns
+- Database Fundamentals
 
 ---
 
-<div align="center">
-  ⭐ Construindo meu caminho na tecnologia um commit por vez
-</div>
+## Featured Projects
+
+### Support Tickets API
+
+REST API built with Node.js focused on understanding backend fundamentals and HTTP communication.
+
+**Highlights**
+
+- Route parameters
+- Query parameters
+- CRUD operations
+- Middleware implementation
+- In-memory database
+- Native Node.js
+
+### Pet Appointment Scheduler
+
+Application for managing pet appointments and schedules.
+
+**Highlights**
+
+- JavaScript
+- Fetch API
+- Day.js
+- Dynamic rendering
+- Modular architecture
+
+### Upcoming Projects
+
+- Authentication and Authorization System
+- Financial Management Application
+- Full Stack Project with React and Node.js
+- PostgreSQL Integration
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus-Souza97&show_icons=true&theme=github_dark&hide_border=true"
+  />
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-Souza97&layout=compact&theme=github_dark&hide_border=true"
+  />
+</p>
+
+---
+
+## Professional Goals
+
+- Become a Full Stack Software Engineer
+- Build scalable and maintainable applications
+- Master software engineering fundamentals
+- Contribute to impactful products and teams
+
+---
+
+## Contact
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-souza-eng-software">
+    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+📧 **Email:** matheus.souza.dev01@gmail.com
+
+---
+
+> "First, solve the problem. Then, write the code."
+>
+> — John Johnson
