@@ -1,136 +1,280 @@
-# Matheus Souza
-
-Software Engineering Student | Full Stack Developer
-
-Building modern web applications with JavaScript, React and Node.js while strengthening software engineering fundamentals, backend development and software architecture.
-
----
-
-## About Me
-
-I'm a Software Engineering student passionate about technology, problem solving and continuous learning.
-
-My current focus is developing full stack applications, improving backend skills with Node.js and deepening my understanding of software architecture, data structures, clean code and design patterns.
-
-I enjoy building practical projects that transform theoretical knowledge into real-world solutions.
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,html,css" />
+<p align="center">
+  <img src="./assets/bannerprofile.png" width="100%" alt="Banner"/>
 </p>
 
-### Front-End
+<h1 align="center">Hi 👋, I'm Matheus Souza</h1>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" />
+<h3 align="center">
+Full Stack Developer • Software Engineering Student
+</h3>
+
+<p align="center">
+I build modern, scalable and high-quality web applications using React, Node.js, TypeScript and PostgreSQL.
 </p>
 
-### Back-End
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Matheus-Souza97&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" />
-</p>
+<img src="https://img.shields.io/badge/Open%20To-Work-success?style=flat-square"/>
 
-### Tools
+<img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat-square"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-  <img src="https://cdn.simpleicons.org/insomnia" width="48" alt="Insomnia" />
+<img src="https://img.shields.io/badge/Rocketseat-Full%20Stack%20Specialization-8257E5?style=flat-square"/>
 </p>
 
 ---
 
-## Current Learning Path
+# 👨🏻‍💻 About Me
 
-- Data Structures and Algorithms
+I'm a **Software Engineering student** passionate about building complete web applications.
+
+Recently I completed Rocketseat's **Full Stack Specialization (181h)**, where I improved my knowledge in backend, frontend, databases, Docker, automated testing and deployment.
+
+I enjoy solving real-world problems through software while constantly learning new technologies and software engineering best practices.
+
+---
+
+# 🚀 Tech Stack
+
+## 💻 Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## ⚛️ Front-end
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## ⚙️ Back-end
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge)
+
+---
+
+## 🗄️ Database & ORM
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Prisma ORM](https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 🧪 Testing
+
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+---
+
+## 🐳 DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
+
+---
+
+## 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 📚 Concepts
+
+![Clean Code](https://img.shields.io/badge/Clean_Code-000000?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-512BD4?style=for-the-badge)
+![Design Patterns](https://img.shields.io/badge/Design_Patterns-FF6F00?style=for-the-badge)
+![Software Architecture](https://img.shields.io/badge/Software_Architecture-0A192F?style=for-the-badge)
+![JWT Authentication](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Zod Validation](https://img.shields.io/badge/Zod-3068B7?style=for-the-badge)
+
+# 🏆 Certification
+
+### 🚀 Rocketseat
+
+**Full Stack Specialization**
+
+✔ 181 Hours
+
+✔ React
+
+✔ Node.js
+
+✔ TypeScript
+
+✔ Express
+
+✔ PostgreSQL
+
+✔ Prisma ORM
+
+✔ Docker
+
+✔ Automated Testing
+
+✔ REST APIs
+
+✔ Deploy
+
+📅 Completed in **July 2026**
+
+---
+
+# 📚 Currently Learning
+
 - Software Architecture
-- REST APIs
-- Node.js
-- React
 - Clean Code
+- SOLID Principles
 - Design Patterns
-- Database Fundamentals
+- Data Structures & Algorithms
+- Scalable Backend Systems
 
 ---
 
-## Featured Projects
+# 🚀 Featured Projects
 
-### Support Tickets API
+## 📌 TaskFlow API
 
-REST API built with Node.js focused on understanding backend fundamentals and HTTP communication.
+Task management REST API built with modern backend technologies.
 
-**Highlights**
+**Stack**
 
-- Route parameters
-- Query parameters
-- CRUD operations
-- Middleware implementation
-- In-memory database
-- Native Node.js
+- TypeScript
+- Express
+- Prisma ORM
+- PostgreSQL
+- JWT Authentication
+- Docker
+- Vitest
+- Zod
 
-### Pet Appointment Scheduler
+---
 
-Application for managing pet appointments and schedules.
+## 💰 Refund API
 
-**Highlights**
+Backend application for reimbursement management.
+
+**Features**
+
+- Authentication
+- Authorization
+- Image Upload
+- Pagination
+- Filters
+- Prisma ORM
+- PostgreSQL
+
+---
+
+## 🎮 Word Guess Game
+
+Interactive React application.
+
+**Stack**
+
+- React
+- TypeScript
+- Vite
+
+---
+
+## 🐶 Hair Day
+
+Appointment scheduling interface.
+
+**Stack**
 
 - JavaScript
-- Fetch API
 - Day.js
-- Dynamic rendering
-- Modular architecture
-
-### Upcoming Projects
-
-- Authentication and Authorization System
-- Financial Management Application
-- Full Stack Project with React and Node.js
-- PostgreSQL Integration
+- Fetch API
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matheus-Souza97&show_icons=true&theme=github_dark&hide_border=true"
-  />
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matheus-Souza97&layout=compact&theme=github_dark&hide_border=true"
-  />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus-Souza97&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Souza97&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## Professional Goals
+# 🔥 GitHub Streak
 
-- Become a Full Stack Software Engineer
-- Build scalable and maintainable applications
-- Master software engineering fundamentals
-- Contribute to impactful products and teams
+<p align="center">
 
----
+<img src="https://streak-stats.demolab.com?user=Matheus-Souza97&theme=tokyonight&hide_border=true"/>
 
-## Contact
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/matheus-souza-eng-software">
-    <img src="https://img.shields.io/badge/LinkedIn-Professional_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
 </p>
 
-📧 **Email:** matheus.souza.dev01@gmail.com
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus-Souza97&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 ---
 
-> "First, solve the problem. Then, write the code."
->
-> — John Johnson
+# 🎯 Goals
+
+✔ Build production-ready Full Stack applications
+
+✔ Master Software Architecture
+
+✔ Improve Data Structures & Algorithms
+
+✔ Contribute to Open Source
+
+✔ Become a Software Engineer
+
+---
+
+# 📫 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/matheus-souza-eng-software" target="_blank">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="mailto:matheus.souza.dev01@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+> **"First, solve the problem. Then, write the code."**
+
+**— John Johnson**
+
+</div>
