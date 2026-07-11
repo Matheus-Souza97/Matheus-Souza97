@@ -19,18 +19,17 @@ I build modern, scalable and high-quality web applications using React, Node.js,
 
 <img src="https://img.shields.io/badge/Full%20Stack-Developer-blue?style=flat-square"/>
 
-<img src="https://img.shields.io/badge/Rocketseat-Full%20Stack%20Specialization-8257E5?style=flat-square"/>
-</p>
-
 ---
 
 # 👨🏻‍💻 About Me
 
-I'm a **Software Engineering student** passionate about building complete web applications.
+I'm a **Software Engineering student** and **Full Stack Developer** focused on building modern, scalable, and maintainable web applications.
 
-Recently I completed Rocketseat's **Full Stack Specialization (181h)**, where I improved my knowledge in backend, frontend, databases, Docker, automated testing and deployment.
+My expertise includes developing **RESTful APIs** using **Node.js, Express, TypeScript, Prisma ORM, PostgreSQL, JWT Authentication, and Zod**, as well as creating responsive and interactive user interfaces with **React, Vite, Tailwind CSS, HTML, and CSS**.
 
-I enjoy solving real-world problems through software while constantly learning new technologies and software engineering best practices.
+I enjoy writing clean, maintainable code and applying software engineering best practices, with a strong interest in **Software Architecture, Design Patterns, Clean Code, Automated Testing, and scalable backend systems**.
+
+I'm continuously expanding my knowledge by building real-world projects that deliver reliable, efficient, and user-focused solutions.
 
 ---
 
